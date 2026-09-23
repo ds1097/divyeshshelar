@@ -1,6 +1,7 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Divyesh%20Shelar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Business%20%26%20Data%20Analytics%20Professional&descAlignY=55&descSize=18)
+# Divyesh Shelar
+### Business & Data Analytics Professional
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=MIS+%26+Reporting+Systems+from+Scratch;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Turning+Fragmented+Data+into+Decisions" alt="Typing SVG" />
 
@@ -151,7 +152,5 @@ open_to:
 <div align="center">
 
 *"Turning fragmented data into decisions, one dashboard at a time."*
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
 </div>
