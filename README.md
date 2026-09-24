@@ -1,8 +1,10 @@
 <div align="center">
 
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Divyesh%20Shelar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20%26%20Analytics%20Professional&descAlignY=55&descSize=18)
+<img src="./assets/header-banner.svg" width="100%" alt="Header banner" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Turning+Fragmented+Data+Into+Decisions;Built+a+Pan-India+MIS+Tracking+System+from+Scratch" alt="Typing SVG" /></a>
+<sub><b>SQL &nbsp;|&nbsp; Python &nbsp;|&nbsp; Power BI &nbsp;|&nbsp; Tableau</b></sub>
+<br/>
+<sub>Built a Pan-India MIS Tracking System from Scratch</sub>
 
 ![BSc IT](https://img.shields.io/badge/BSc-Information%20Technology-6D28D9?style=flat-square)
 ![Location](https://img.shields.io/badge/📍-Mumbai,%20India-4C1D95?style=flat-square)
@@ -202,6 +204,6 @@ Open To:
 
 *"Data doesn't tell stories on its own — someone has to ask it the right question."*
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+<img src="./assets/footer-banner.svg" width="100%" alt="Footer banner" />
 
 </div>
